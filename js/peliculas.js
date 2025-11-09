@@ -434,7 +434,11 @@ peliculasThriller.forEach(titulo=> {
 
     const contenedorTres = document.getElementById("genero-12")
     
-
+    peliculasAventura.forEach(titulo=> {
+        const peliculaAventura = document.createElement("li")
+        peliculaAventura.textContent = titulo;
+        contenedorTres.appendChild(peliculaAventura)
+    })
 
 
 
