@@ -401,3 +401,24 @@ const peliculas = [
 ]
 
 export default peliculas
+
+
+const peliculasDeAccion = peliculas.filter(pelicula => 
+  pelicula.genre_ids.includes(28)
+);
+
+console.log(peliculasDeAccion);
+
+
+const peliculasThriller = peliculas.filter(pelicula=>
+    pelicula.genre_ids.includes(53)
+)
+
+console.log (peliculasThriller)
+
+
+const peliculasAventura = peliculas.filter(pelicula=>
+    pelicula.genre_ids.includes(12)
+)
+
+console.log(peliculasAventura)
