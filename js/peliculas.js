@@ -399,6 +399,45 @@ const peliculas = [
       "vote_count": 25
   }
 ]
+ const imagenPeli= [ "Muzzle: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciFHdrjmuK932t9tz4HkoKFcOmE.jpg",
+
+"Retribution: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf8bmlofyWyRaaaWC9gR79It8qO.jpg",
+
+"Fast X: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
+
+"The Equalizer 3: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
+
+"Gran Turismo: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+
+"Expend4bles: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qxRrkayxSYiib4JCYRM3sasQe0.jpg",
+
+"Mission: Impossible - Dead Reckoning Part One: https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+
+"Sound of Freedom: https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
+
+"Meg 2: The Trench: https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
+
+"Desperation Road: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2piKHGDVn4Orm0FTbDdcsZdI38r.jpg",
+
+"Uri: The Surgical Strike: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHvYz0gpOUut13ogJZpccok2A6L.jpg",
+
+"Boudica: https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvrifbvSDeS1RWRHK58Id6UxFbH.jpg",
+
+"Blue Beetle: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5Mqgoj1fFIeP7Ktfn8KGrYhup.jpg",
+
+"PAW Patrol: The Mighty Movie: https://image.tmdb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg",
+
+"Sniper: G.R.I.T. - Global Response & Intelligence Team: https://image.tmdb.org/t/p/w600_and_h900_bestv2/unQIXieQFy3EqeD9eQZUZLq0JVu.jpg",
+
+"Transformers: Rise of the Beasts: https://image.tmdb.org/t/p/w600_and_h900_bestv2/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
+
+"The Swordsman: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4agc8dypZZcmQGMVrKUtwO0UIAV.jpg",
+
+"Spider-Man: Across the Spider-Verse: https://image.tmdb.org/t/p/w600_and_h900_bestv2/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+
+"Babylon A.D.: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IBB0Z2dZAWZNkRq6hF9pJsmMtE.jpg",
+
+"The Engineer: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy2zghIDJZ4dBOzh3Xaba0kMrPt.jpg"]
 
 export default peliculas
 //----------------------------------------------------------------------------//
@@ -409,7 +448,7 @@ const peliculasDeAccion = peliculas.filter(pelicula =>
 const contenedor = document.getElementById("genero-28")
 
 peliculasDeAccion.forEach(titulo => {
-    const peliculaElemento = document.createElement("li"); 
+    const peliculaElemento = document.createElement("p"); 
     peliculaElemento.textContent = titulo;
     contenedor.appendChild(peliculaElemento);
 })
@@ -422,7 +461,7 @@ const peliculasThriller = peliculas.filter(pelicula=>
 const contenedorDos = document.getElementById("genero-53")
 
 peliculasThriller.forEach(titulo=> {
-    const peliculaThriller = document.createElement("li")
+    const peliculaThriller = document.createElement("p")
     peliculaThriller.textContent = titulo;
     contenedorDos.appendChild(peliculaThriller)
 })
@@ -435,7 +474,7 @@ peliculasThriller.forEach(titulo=> {
     const contenedorTres = document.getElementById("genero-12")
     
     peliculasAventura.forEach(titulo=> {
-        const peliculaAventura = document.createElement("li")
+        const peliculaAventura = document.createElement("p")
         peliculaAventura.textContent = titulo;
         contenedorTres.appendChild(peliculaAventura)
     })
