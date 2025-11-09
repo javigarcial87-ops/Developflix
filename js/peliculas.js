@@ -401,22 +401,40 @@ const peliculas = [
 ]
 
 export default peliculas
-
+//----------------------------------------------------------------------------//
 
 const peliculasDeAccion = peliculas.filter(pelicula => 
   pelicula.genre_ids.includes(28)).map(pelicula => pelicula["title"]);
 
-console.log(peliculasDeAccion);
+const contenedor = document.getElementById("genero-28")
 
+peliculasDeAccion.forEach(titulo => {
+    const peliculaElemento = document.createElement("li"); 
+    peliculaElemento.textContent = titulo;
+    contenedor.appendChild(peliculaElemento);
+})
+
+//--------------------------------------------------------------------------//
 
 const peliculasThriller = peliculas.filter(pelicula=>
     pelicula.genre_ids.includes(53)).map(pelicula=>pelicula ["title"])
 
+const contenedorDos = document.getElementById("genero-53")
 
-console.log (peliculasThriller)
+peliculasThriller.forEach(titulo=> {
+    const peliculaThriller = document.createElement("li")
+    peliculaThriller.textContent = titulo;
+    contenedorDos.appendChild(peliculaThriller)
+})
+
+//----------------------------------------------------------------------//
 
 
-const peliculasAventura = peliculas.filter(pelicula=>
+
+
+
+
+    const peliculasAventura = peliculas.filter(pelicula=>
     pelicula.genre_ids.includes(12)).map(pelicula=>pelicula["title"])
 
 console.log(peliculasAventura)
