@@ -429,12 +429,17 @@ peliculasThriller.forEach(titulo=> {
 
 //----------------------------------------------------------------------//
 
-
-
-
-
-
     const peliculasAventura = peliculas.filter(pelicula=>
     pelicula.genre_ids.includes(12)).map(pelicula=>pelicula["title"])
 
-console.log(peliculasAventura)
+    const contenedorTres = document.getElementById("genero-12")
+    
+
+
+
+
+
+
+
+
+
