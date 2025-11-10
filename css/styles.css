@@ -4,10 +4,11 @@
   font-family: Arial;
  }
 .genero-container {
-  background: #181818;
+  background: #dfdede;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
+  color: rgb(0, 0, 0);
 }
 
 .genero {
@@ -17,7 +18,7 @@
 }
 
 .cardOne {
-  background-color: white;
+  background-color: rgb(233, 220, 223);
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
   text-align: center;
