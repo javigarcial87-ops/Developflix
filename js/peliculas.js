@@ -13,7 +13,7 @@ const peliculas = [
       "original_title": "Muzzle",
       "overview": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
       "popularity": 1487.413,
-      "poster_path": "/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciFHdrjmuK932t9tz4HkoKFcOmE.jpg",
       "release_date": "2023-09-29",
       "title": "Muzzle",
       "video": false,
@@ -33,7 +33,7 @@ const peliculas = [
       "original_title": "Retribution",
       "overview": "When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks- all with his kids trapped in the back seat.",
       "popularity": 1253.237,
-      "poster_path": "/ljl70pjLIX1hx3bPyCCbxGj6WPr.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf8bmlofyWyRaaaWC9gR79It8qO.jpg",
       "release_date": "2023-08-23",
       "title": "Retribution",
       "video": false,
@@ -53,7 +53,7 @@ const peliculas = [
       "original_title": "Fast X",
       "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
       "popularity": 1336.068,
-      "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
       "release_date": "2023-05-17",
       "title": "Fast X",
       "video": false,
@@ -73,7 +73,7 @@ const peliculas = [
       "original_title": "The Equalizer 3",
       "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
       "popularity": 1310.832,
-      "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
       "release_date": "2023-08-30",
       "title": "The Equalizer 3",
       "video": false,
@@ -93,7 +93,7 @@ const peliculas = [
       "original_title": "Gran Turismo",
       "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
       "popularity": 1028.898,
-      "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
       "release_date": "2023-08-09",
       "title": "Gran Turismo",
       "video": false,
@@ -113,7 +113,7 @@ const peliculas = [
       "original_title": "Expend4bles",
       "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
       "popularity": 1057.399,
-      "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qxRrkayxSYiib4JCYRM3sasQe0.jpg",
       "release_date": "2023-09-15",
       "title": "Expend4bles",
       "video": false,
@@ -132,7 +132,7 @@ const peliculas = [
       "original_title": "Mission: Impossible - Dead Reckoning Part One",
       "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
       "popularity": 1665.539,
-      "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
       "release_date": "2023-07-08",
       "title": "Mission: Impossible - Dead Reckoning Part One",
       "video": false,
@@ -151,7 +151,7 @@ const peliculas = [
       "original_title": "Sound of Freedom",
       "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
       "popularity": 1479.657,
-      "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
       "release_date": "2023-07-03",
       "title": "Sound of Freedom",
       "video": false,
@@ -171,7 +171,7 @@ const peliculas = [
       "original_title": "Meg 2: The Trench",
       "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
       "popularity": 829.94,
-      "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
       "release_date": "2023-08-02",
       "title": "Meg 2: The Trench",
       "video": false,
@@ -192,7 +192,7 @@ const peliculas = [
       "original_title": "Desperation Road",
       "overview": "After 11 years in a Mississippi state prison, Russell Gaines struggles to leave his past sins behind him as he returns home to his stoic father, Mitchell. One fateful night he meets Maben, a young mother with nothing but a stolen gun and a murdered police deputy to her name. Desperate and on the run, Russell and Maben must trust one another to escape their own circumstances, before the truths of their intertwined violent past threatens to destroy them.",
       "popularity": 664.924,
-      "poster_path": "https://image.tmdb.org/t/p/w500/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2piKHGDVn4Orm0FTbDdcsZdI38r.jpg",
       "release_date": "2023-10-19",
       "title": "Desperation Road",
       "video": false,
@@ -212,7 +212,7 @@ const peliculas = [
       "original_title": "Uri: The Surgical Strike",
       "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
       "popularity": 717.773,
-      "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHvYz0gpOUut13ogJZpccok2A6L.jpg",
       "release_date": "2019-01-11",
       "title": "Uri: The Surgical Strike",
       "video": false,
@@ -231,7 +231,7 @@ const peliculas = [
       "original_title": "Boudica",
       "overview": "Inspired by events in A.D. 60, Boudica follows the eponymous Celtic warrior who rules the Iceni people alongside her husband Prasutagus. When he dies at the hands of Roman soldiers, Boudica’s kingdom is left without a male heir and the Romans seize her land and property.  Driven to the edge of madness and determined to avenge her husband’s death, Boudica rallies the various tribes from the region and wages an epic war against the mighty Roman empire.",
       "popularity": 1200.1,
-      "poster_path": "/ssEFC5wfFjj7lJpUgwJDOK1Xu1J.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvrifbvSDeS1RWRHK58Id6UxFbH.jpg",
       "release_date": "2023-10-26",
       "title": "Boudica",
       "video": false,
@@ -251,7 +251,7 @@ const peliculas = [
       "original_title": "Blue Beetle",
       "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
       "popularity": 646.216,
-      "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5Mqgoj1fFIeP7Ktfn8KGrYhup.jpg",
       "release_date": "2023-08-16",
       "title": "Blue Beetle",
       "video": false,
@@ -272,7 +272,7 @@ const peliculas = [
       "original_title": "PAW Patrol: The Mighty Movie",
       "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
       "popularity": 786.46,
-      "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg",
       "release_date": "2023-09-21",
       "title": "PAW Patrol: The Mighty Movie",
       "video": false,
@@ -291,7 +291,7 @@ const peliculas = [
       "original_title": "Sniper: G.R.I.T. - Global Response & Intelligence Team",
       "overview": "When an international terrorist cult threatens global political stability and kidnaps a fellow agent, Ace Sniper Brandon Beckett and the newly-formed Global Response & Intelligence Team – or G.R.I.T. – led by Colonel Stone must travel across the world to Malta, infiltrate the cult, and take out its leader to free Lady Death and stop the global threat.",
       "popularity": 586.001,
-      "poster_path": "/a9bt9byTQ1MIfRWYQX240HiYPrl.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unQIXieQFy3EqeD9eQZUZLq0JVu.jpg",
       "release_date": "2023-09-26",
       "title": "Sniper: G.R.I.T. - Global Response & Intelligence Team",
       "video": false,
@@ -311,7 +311,7 @@ const peliculas = [
       "original_title": "Transformers: Rise of the Beasts",
       "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
       "popularity": 605.848,
-      "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
       "release_date": "2023-06-06",
       "title": "Transformers: Rise of the Beasts",
       "video": false,
@@ -331,7 +331,7 @@ const peliculas = [
       "original_title": "검객",
       "overview": "After being blinded in a coup against the king, Joseon's greatest swordsman goes into hiding, far removed from his city's anguish. But when traffickers kidnap his daughter, he has no choice but to unsheathe his sword once more.",
       "popularity": 520.345,
-      "poster_path": "/r08U3dwiOeStXcjYmfnRyumgKyq.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4agc8dypZZcmQGMVrKUtwO0UIAV.jpg",
       "release_date": "2020-09-23",
       "title": "The Swordsman",
       "video": false,
@@ -351,7 +351,7 @@ const peliculas = [
       "original_title": "Spider-Man: Across the Spider-Verse",
       "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
       "popularity": 491.58,
-      "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
       "release_date": "2023-05-31",
       "title": "Spider-Man: Across the Spider-Verse",
       "video": false,
@@ -372,7 +372,7 @@ const peliculas = [
       "original_title": "Babylon A.D.",
       "overview": "A veteran-turned-mercenary is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.",
       "popularity": 841.522,
-      "poster_path": "/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IBB0Z2dZAWZNkRq6hF9pJsmMtE.jpg",
       "release_date": "2008-08-20",
       "title": "Babylon A.D.",
       "video": false,
@@ -391,7 +391,7 @@ const peliculas = [
       "original_title": "The Engineer",
       "overview": "As Israel is rocked by a series of terrorist bombings, a US senator's daughter is killed in one bloody explosion. Now, ex-Mossad agent Etan must lead an elite, covert team of agents and mercenaries to find the man responsible—the elusive “Engineer.” Can they find and destroy the madman before more innocent lives are lost?",
       "popularity": 415.481,
-      "poster_path": "/ozkZ8TeIRwzNH2zF5LFS39M3v5U.jpg",
+      "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy2zghIDJZ4dBOzh3Xaba0kMrPt.jpg",
       "release_date": "2023-08-18",
       "title": "The Engineer",
       "video": false,
@@ -401,46 +401,6 @@ const peliculas = [
 ]
 
 export default peliculas
-//----------------------------------------------------------------------------//
-
-const peliculasDeAccion = peliculas.filter(pelicula => 
-  pelicula.genre_ids.includes(28)).map(pelicula => pelicula["title"]);
-
-const contenedor = document.getElementById("genero-28")
-
-peliculasDeAccion.forEach(titulo => {
-    const peliculaElemento = document.createElement("p"); 
-    peliculaElemento.textContent = titulo;
-    contenedor.appendChild(peliculaElemento);
-})
-
-//--------------------------------------------------------------------------//
-
-const peliculasThriller = peliculas.filter(pelicula=>
-    pelicula.genre_ids.includes(53)).map(pelicula=>pelicula ["title"])
-
-const contenedorDos = document.getElementById("genero-53")
-
-peliculasThriller.forEach(titulo=> {
-    const peliculaThriller = document.createElement("p")
-    peliculaThriller.textContent = titulo;
-    contenedorDos.appendChild(peliculaThriller)
-})
-
-//----------------------------------------------------------------------//
-
-    const peliculasAventura = peliculas.filter(pelicula=>
-    pelicula.genre_ids.includes(12)).map(pelicula=>pelicula["title"])
-
-    const contenedorTres = document.getElementById("genero-12")
-    
-    peliculasAventura.forEach(titulo=> {
-        const peliculaAventura = document.createElement("p")
-        peliculaAventura.textContent = titulo;
-        contenedorTres.appendChild(peliculaAventura)
-    })
-
-
 
 
 
